@@ -34,11 +34,11 @@ Building intelligent SaaS platforms, AI-powered analytics systems, and modern fu
 
 # 📊 GitHub Statistics
 
+
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suhaiff&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaiff&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaiff&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -50,107 +50,106 @@ Building intelligent SaaS platforms, AI-powered analytics systems, and modern fu
 
 ---
 
-# 💻 Technology Ecosystem
-
-### 🚀 Frontend
+<h2 align="center">Technology Ecosystem</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css&perline=6"/>
-
+Building scalable AI-powered web applications with modern technologies.
 </p>
 
-### ⚙️ Backend & AI
+<table align="center">
+<tr>
 
-<p align="center">
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,flask&perline=6"/>
+### Frontend
 
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css&perline=3"/>
 
-<p align="center">
+</td>
+
+<td align="center" width="50%">
+
+### Backend & AI
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,flask&perline=3"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
 
-<img src="https://img.shields.io/badge/AI_Automation-0066CC?style=for-the-badge"/>
+</td>
 
-</p>
+</tr>
 
-### ☁️ Database & Cloud
+<tr>
 
+<td align="center">
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,firebase,docker&perline=3"/>
+
+</td>
+
+<td align="center">
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=3"/>
+
+</td>
+
+</tr>
+</table>
+
+<h4 align="center">Graphics & Visualization</h4>
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,firebase,docker&perline=5"/>
-
-</p>
-
-### 🛠️ Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=5"/>
-
-</p>
-
-### 🎨 Graphics & Visualization
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs"/>
-
 <img src="https://img.shields.io/badge/Fabric.js-E34F26?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs"/>
-
 </p>
 
 ---
 
-# 🎯 Core Expertise
+<h2 align="center">Core Expertise</h2>
 
-<table>
+<p align="center">
+Delivering AI-driven products, intelligent business solutions, and scalable software architectures.
+</p>
 
+<table align="center">
 <tr>
 
-<td align="center">
+<td width="33%" align="center">
 
-🤖
+<h3>Artificial Intelligence</h3>
 
-### AI Integration
-
-OpenAI
-
-Prompt Engineering
-
-Automation
+AI Integration<br>
+Prompt Engineering<br>
+Workflow Automation<br>
+Intelligent Assistants
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-📊
+<h3>Business Intelligence</h3>
 
-### Business Intelligence
-
-Power BI
-
-Dashboards
-
-Analytics
+Dashboard Development<br>
+Data Visualization<br>
+KPI Reporting<br>
+Decision Support
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-📈
+<h3>Data Engineering</h3>
 
-### Data Analytics
-
-KPIs
-
-Visualization
-
-Reporting
+Data Integration<br>
+ETL Pipelines<br>
+Data Validation<br>
+Reporting Systems
 
 </td>
 
@@ -158,45 +157,36 @@ Reporting
 
 <tr>
 
-<td align="center">
+<td width="33%" align="center">
 
-⚡
+<h3>Full-Stack Engineering</h3>
 
-### Full Stack
-
-React
-
-Node.js
-
-Python
+Enterprise Applications<br>
+REST APIs<br>
+Authentication Systems<br>
+Performance Optimization
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-☁️
+<h3>Cloud Solutions</h3>
 
-### Cloud
-
-Supabase
-
-Docker
-
-PostgreSQL
+Cloud Integration<br>
+Secure Deployments<br>
+Scalable Infrastructure<br>
+Database Architecture
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-🚀
+<h3>Product Development</h3>
 
-### SaaS Products
-
-Architecture
-
-Deployment
-
-Scalability
+SaaS Platforms<br>
+System Architecture<br>
+Modern UI/UX<br>
+End-to-End Delivery
 
 </td>
 
@@ -206,123 +196,112 @@ Scalability
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+A selection of AI-powered products and enterprise applications designed to solve real-world business challenges.
+</p>
 
 <table>
 
 <tr>
+<td>
 
-<td width="50%">
+<h3>Analytic Core</h3>
 
-## 📊 Analytic Core
+<b>AI-Powered Business Intelligence Migration Platform</b>
 
-### AI-Powered BI Migration Platform
+Modernizes legacy BI solutions through automated migration, intelligent analytics, and streamlined dashboard generation.
 
-✔ Automated migration from QlikView & Qlik Sense to Power BI
+<b>Key Capabilities</b>
 
-✔ AI-assisted dashboard generation
+• Automated BI Migration
 
-✔ Multi-source data integration
+• Multi-Source Data Connectivity
 
-✔ Modern analytics platform
+• Intelligent Dashboard Generation
 
-**Stack**
+• Data Quality Validation
 
-React • Node.js • PostgreSQL • OpenAI
-
-</td>
-
-<td width="50%">
-
-<img src="./images/analytic-core.png"/>
+• Enterprise Reporting
 
 </td>
-
 </tr>
 
 <tr>
+<td>
 
-<td width="50%">
+<h3>HR Management System</h3>
 
-<img src="./images/dashboard-builder.png"/>
+<b>Enterprise Workforce Management Platform</b>
 
-</td>
+Centralized platform for managing employees, attendance, approvals, task assignments, and administrative workflows.
 
-<td width="50%">
+<b>Key Capabilities</b>
 
-## 🤖 Insight AI Dashboard
+• Employee Lifecycle Management
 
-Generate dashboards using
+• Attendance & Leave Management
 
-Excel
+• Task Assignment & Tracking
 
-SQL
+• Administrative Portal
 
-JSON
-
-XML
-
-Google Sheets
-
-API
+• Secure Role-Based Access
 
 </td>
-
 </tr>
 
 <tr>
+<td>
 
-<td width="50%">
+<h3>Box Art Lab</h3>
 
-## 📦 Box Art Lab
+<b>Interactive Packaging Design Platform</b>
 
-Interactive Packaging Designer
+Digital packaging solution providing real-time design, visualization, and production-ready artwork generation.
 
-2D + 3D Preview
+<b>Key Capabilities</b>
 
-Fabric.js
+• Interactive Design Studio
 
-Three.js
+• 2D & 3D Visualization
 
-Real-time Editing
+• Live Packaging Preview
+
+• Dynamic Pricing Engine
+
+• Production-Ready Export
 
 </td>
-
-<td width="50%">
-
-<img src="./images/boxart.png"/>
-
-</td>
-
 </tr>
 
 <tr>
+<td>
 
-<td width="50%">
+<h3>AI Home Builder</h3>
 
-<img src="./images/homebuilder.png"/>
+<b>Intelligent Residential Planning Platform</b>
+
+AI-assisted solution for generating customized home layouts and interactive design visualizations.
+
+<b>Key Capabilities</b>
+
+• Intelligent Space Planning
+
+• Dynamic Floor Generation
+
+• Interactive 3D Visualization
+
+• Room Optimization
+
+• Custom Home Configuration
 
 </td>
-
-<td width="50%">
-
-## 🏡 AI Home Builder
-
-Dynamic AI-generated
-
-Floor Plans
-
-3D Layouts
-
-Smart Room Planning
-
-</td>
-
 </tr>
 
 </table>
 
----
 
 # 🚀 Currently Building
 
@@ -348,3 +327,35 @@ Smart Room Planning
 ---
 
 # 🌐 Connect
+<p align="center">
+
+<a href="https://sohib-portfolio.netlify.app">
+
+<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/suhaiff">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+---
+
+
+<p align="center">
+
+> Building intelligent software that transforms data into business decisions.
+
+</p>
