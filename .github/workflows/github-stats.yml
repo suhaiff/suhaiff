@@ -17,11 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate GitHub Stats
+      - name: Generate Development Activity
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=050810&title_color=2ADCFF&text_color=E5EEFC&icon_color=B05BFF
+          options: username=${{ github.repository_owner }}&custom_title=Development%20Activity&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=050810&title_color=2ADCFF&text_color=E5EEFC&icon_color=B05BFF&ring_color=2ADCFF&text_bold=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&langs_count=6&hide_border=true&bg_color=050810&title_color=2ADCFF&text_color=E5EEFC
+          options: username=${{ github.repository_owner }}&custom_title=Most%20Used%20Languages&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=050810&title_color=2ADCFF&text_color=E5EEFC
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
