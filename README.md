@@ -429,37 +429,98 @@ AI-assisted solution for generating customized home layouts and interactive desi
 <br>
 
 <p align="center">
-  <i>Code, contributions and the languages behind my projects.</i>
+  <code>BUILD • ITERATE • SHIP</code>
 </p>
 
 ---
 
-# 🌐 Connect
+<h2 align="center">Let's Build Something</h2>
+
 <p align="center">
+  <code>sohib@dev:~$ connect</code>
+</p>
 
-<a href="https://sohib-portfolio.netlify.app">
+<br>
 
-<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge"/>
+<table align="center">
+<tr>
 
+<td align="center" width="33%">
+
+<h3>Portfolio</h3>
+
+<p>
+Explore my products, experiments<br>
+and selected work.
+</p>
+
+<a href="https://sohib-portfolio.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/EXPLORE-050810?style=for-the-badge&logo=googlechrome&logoColor=2ADCFF&label=PORTFOLIO"
+    alt="Portfolio"
+  />
 </a>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>GitHub</h3>
+
+<p>
+Inspect the code, repositories<br>
+and engineering work.
+</p>
 
 <a href="https://github.com/suhaiff">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+  <img
+    src="https://img.shields.io/badge/INSPECT-050810?style=for-the-badge&logo=github&logoColor=FFFFFF&label=GITHUB"
+    alt="GitHub"
+  />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+</td>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<td align="center" width="33%">
 
-</a>
+<h3>LinkedIn</h3>
 
+<p>
+Connect, collaborate<br>
+and start a conversation.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/sohib-akthar-m/">
+  <img
+    src="https://img.shields.io/badge/CONNECT-050810?style=for-the-badge&logo=linkedin&logoColor=2ADCFF&label=LINKEDIN"
+    alt="LinkedIn"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <code>IDEA</code>
+  &nbsp;→&nbsp;
+  <code>BUILD</code>
+  &nbsp;→&nbsp;
+  <code>COLLABORATE</code>
+  &nbsp;→&nbsp;
+  <code>SHIP</code>
+</p>
+
+<p align="center">
+  <sub>SOHIB.DEV • ONLINE • READY TO BUILD</sub>
+</p>
 
 ---
+
+
 
 
 <p align="center">
@@ -467,3 +528,6 @@ AI-assisted solution for generating customized home layouts and interactive desi
 > Building intelligent software that transforms data into business decisions.
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
