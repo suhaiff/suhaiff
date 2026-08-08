@@ -456,7 +456,7 @@ and selected work.
 
 <a href="https://sohib-portfolio.netlify.app/">
   <img
-    src="https://img.shields.io/badge/EXPLORE-050810?style=for-the-badge&logo=googlechrome&logoColor=2ADCFF&label=PORTFOLIO"
+    src="https://img.shields.io/badge/EXPLORE-050810?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&label=PORTFOLIO"
     alt="Portfolio"
   />
 </a>
