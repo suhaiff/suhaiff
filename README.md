@@ -398,27 +398,39 @@ AI-assisted solution for generating customized home layouts and interactive desi
 
 </table>
 
+---
 
-# 🚀 Currently Building
+<h2 align="center">Developer Workspace</h2>
 
-- 📊 Automated BI Migration Platform
-- 🤖 AI Dashboard Builder
-- 📦 Box Art Lab
-- 🏡 AI Home Builder
+<p align="center">
+  <img
+    src="./sohib-developer-core-v2.gif"
+    width="100%"
+    alt="Sohib Developer Workspace"
+  />
+</p>
 
 ---
 
-# 🏆 Highlights
+<h2 align="center">Developer Analytics</h2>
 
-⭐ AI Product Engineer
+<p align="center">
+  <code>github.com/suhaiff</code>
+</p>
 
-⭐ Business Intelligence Specialist
+<br>
 
-⭐ OpenAI Integration
+<p align="center">
+  <img src="./profile/top-langs.svg" height="180" alt="Most Used Languages"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
+</p>
 
-⭐ Full Stack SaaS Development
+<br>
 
-⭐ Data Analytics
+<p align="center">
+  <i>Code, contributions and the languages behind my projects.</i>
+</p>
 
 ---
 
