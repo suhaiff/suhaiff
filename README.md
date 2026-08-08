@@ -6,16 +6,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=3BA9FF&center=true&vCenter=true&width=1000&lines=AI+Product+Engineer;Full+Stack+Developer;Business+Intelligence+Specialist;Building+AI-Powered+SaaS+Products;OpenAI+%7C+React+%7C+Python+%7C+Node.js" />
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Sohib Akthar M
-</h1>
-
-<h3 align="center">
-AI Product Engineer • Full Stack Developer • Business Intelligence Specialist
-</h3>
+<h2 align="center">Welcome to my workspace.</h2>
 
 <p align="center">
-Building intelligent SaaS platforms, AI-powered analytics systems, and modern full-stack applications.
+  <code>initializing...</code>
+</p>
+
+<br>
+
+<p align="center">
+  Ideas → Experiments → Products
+</p>
+
+<p align="center">
+  This is where I build, break, rethink,<br>
+  and occasionally turn an idea into something real.
+</p>
+
+<br>
+
+<p align="center">
+  <code>explore freely.</code>
 </p>
 
 <p align="center">
@@ -32,20 +43,105 @@ Building intelligent SaaS platforms, AI-powered analytics systems, and modern fu
 
 ---
 
-# 📊 GitHub Statistics
-
-
+<h2 align="center">Behind the Code</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaiff&theme=tokyo-night&hide_border=true"/>
-
+  <code>there's always another thing worth building.</code>
 </p>
 
+<br>
+
 <p align="center">
+  I like taking an idea that exists only in my head<br>
+  and turning it into something that actually works.
+</p>
 
-<img src="https://streak-stats.demolab.com?user=suhaiff&theme=tokyonight&hide_border=true"/>
+<br>
 
+<p align="center">
+  <code>idea</code>
+  → 
+  <code>prototype</code>
+  → 
+  <code>problem</code>
+  → 
+  <code>solution</code>
+  → 
+  <code>product</code>
+</p>
+
+<br>
+
+<p align="center">
+  <i>
+  The fun part isn't writing the code.<br>
+  It's figuring out what should be built in the first place.
+  </i>
+</p>
+
+---
+
+<h2 align="center">Build Log</h2>
+
+<p align="center">
+  <code>~/sohib/projects</code>
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 — Think</h3>
+
+<p>
+Find an interesting problem.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>02 — Build</h3>
+
+<p>
+Turn the idea into something real.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 — Break</h3>
+
+<p>
+Find what doesn't work.
+Fix it. Repeat.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>04 — Ship</h3>
+
+<p>
+Put it in the hands of real people.
+</p>
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+  <code>git commit -m "make it better"</code>
 </p>
 
 ---
